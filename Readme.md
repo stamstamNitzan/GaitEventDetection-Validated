@@ -35,8 +35,8 @@ Here are the examples:
 - [GaitDetectionOnlyRecordingGyro.ino](GaitDetectionOnlyRecordingGyro/GaitDetectionOnlyRecordingGyro.ino) – sending gyroscope data to nRF Connect in real-time.
 - [GaitDetectionLightOnly.ino](GaitDetectionLightOnly/GaitDetectionLightOnly.ino) – turning on LED on heel-strike events and turning it off on calculated toe-off events.
 - [GaitDetectionWithVibration.ino](GaitDetectionWithVibration/GaitDetectionWithVibration.ino) – turning on the first vibration motor at heel-strike and turning on the second motor at about 30% of the gait cycle. Both motors are turned off at toe-off events (about 60% of the gait cycle).
-- [DataConversionXMLtoMatlab.m](DataConversionXMLtoMatlab.m) – import recorded XML files and converts the data to angular velocity meaningful values using MATLAB.
-- [GyroDataExcelTutorial.pdf](GyroDataExcelTutorial.pdf) – you can also use Excel to convert angular velocity to meaningful values. Explanation on how to convert gyro data from XML file to Excel by Omri Yosfan (omri.yy@gmail.com).
+- [DataConversionXMLtoMatlab.m](Post-analysis/DataConversionXMLtoMatlab.m) – import recorded XML files and converts the data to angular velocity meaningful values using MATLAB.
+- [GyroDataExcelTutorial.pdf](Post-analysis/GyroDataExcelTutorial.pdf) – you can also use Excel to convert angular velocity to meaningful values. Explanation on how to convert gyro data from XML file to Excel by Omri Yosfan (omri.yy@gmail.com).
 
 
 ### Controlling the device via the nRF Connect app
