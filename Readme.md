@@ -141,8 +141,10 @@ See the License for the specific language governing permissions and limitations 
 The Educational Community License version 2.0 ("ECL") consists of the Apache 2.0 license, modified to change the scope of the patent grant in section 3 to be specific to the needs of the education communities using this license. The original Apache 2.0 license can be found at: http://www.apache.org/licenses/LICENSE-2.0
 
 ## Citation
-Remember to give the appropriate credit to the creators of the work. 
+Remember to give the appropriate credit to the creators of the work.
+N. Breitman, T. Yona and A. G. Fischer, "Gait Event Detection Wearable Device Development and the Effect of Vibration Feedback on Ankle Kinematics and Kinetics," in IEEE Sensors Journal, vol. 23, no. 17, pp. 19052-19059, 1 Sept.1, 2023, doi: 10.1109/JSEN.2023.3294306.
 
+[https://ieeexplore.ieee.org/document/10182391](https://ieeexplore.ieee.org/document/10182391)
 
 ## Contact
 Nitzan Breitman: :email: [nitzan.breitman@gmail.com](mailto:nitzan.breitman@gmail.com)
